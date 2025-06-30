@@ -12,3 +12,4 @@ C:\Users\User\Desktop\PROYECTOS VSC\semana03\obj\Debug\net9.0\refint\semana03.dl
 C:\Users\User\Desktop\PROYECTOS VSC\semana03\obj\Debug\net9.0\semana03.pdb
 C:\Users\User\Desktop\PROYECTOS VSC\semana03\obj\Debug\net9.0\semana03.genruntimeconfig.cache
 C:\Users\User\Desktop\PROYECTOS VSC\semana03\obj\Debug\net9.0\ref\semana03.dll
+C:\Users\User\Desktop\PROYECTOS VSC\semana03\obj\Debug\net9.0\semana03.sourcelink.json

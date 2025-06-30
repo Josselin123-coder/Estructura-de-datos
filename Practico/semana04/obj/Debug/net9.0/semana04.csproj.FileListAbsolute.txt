@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\PROYECTOS VSC\semana03\Practico\semana04\obj\Debug\net9.0\semana04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PROYECTOS VSC\semana03\Practico\semana04\obj\Debug\net9.0\semana04.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PROYECTOS VSC\semana03\Practico\semana04\obj\Debug\net9.0\semana04.AssemblyInfo.cs
+C:\Users\User\Desktop\PROYECTOS VSC\semana03\Practico\semana04\obj\Debug\net9.0\semana04.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROYECTOS VSC\semana03\Practico\semana04\obj\Debug\net9.0\semana04.sourcelink.json

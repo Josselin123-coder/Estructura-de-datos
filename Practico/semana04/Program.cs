@@ -1,10 +1,4 @@
-using System;
 
-public class Program
-{
-    // Declaro la clase principal Program donde ejecutaré mi programa
-    
-    public static void Main()
     {
         // Defino el método Main que será el punto de entrada de mi aplicación
         
