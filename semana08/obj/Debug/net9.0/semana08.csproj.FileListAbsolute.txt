@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\PROYECTOS VSC\semana03\semana08\bin\Debug\net9.0\semana08.exe
+C:\Users\User\Desktop\PROYECTOS VSC\semana03\semana08\bin\Debug\net9.0\semana08.deps.json
+C:\Users\User\Desktop\PROYECTOS VSC\semana03\semana08\bin\Debug\net9.0\semana08.runtimeconfig.json
+C:\Users\User\Desktop\PROYECTOS VSC\semana03\semana08\bin\Debug\net9.0\semana08.dll
+C:\Users\User\Desktop\PROYECTOS VSC\semana03\semana08\bin\Debug\net9.0\semana08.pdb
+C:\Users\User\Desktop\PROYECTOS VSC\semana03\semana08\obj\Debug\net9.0\semana08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PROYECTOS VSC\semana03\semana08\obj\Debug\net9.0\semana08.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PROYECTOS VSC\semana03\semana08\obj\Debug\net9.0\semana08.AssemblyInfo.cs
+C:\Users\User\Desktop\PROYECTOS VSC\semana03\semana08\obj\Debug\net9.0\semana08.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROYECTOS VSC\semana03\semana08\obj\Debug\net9.0\semana08.sourcelink.json
+C:\Users\User\Desktop\PROYECTOS VSC\semana03\semana08\obj\Debug\net9.0\semana08.dll
+C:\Users\User\Desktop\PROYECTOS VSC\semana03\semana08\obj\Debug\net9.0\refint\semana08.dll
+C:\Users\User\Desktop\PROYECTOS VSC\semana03\semana08\obj\Debug\net9.0\semana08.pdb
+C:\Users\User\Desktop\PROYECTOS VSC\semana03\semana08\obj\Debug\net9.0\semana08.genruntimeconfig.cache
+C:\Users\User\Desktop\PROYECTOS VSC\semana03\semana08\obj\Debug\net9.0\ref\semana08.dll

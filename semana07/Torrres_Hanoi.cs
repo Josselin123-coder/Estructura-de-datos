@@ -3,15 +3,20 @@ using System.Collections.Generic;
 
 namespace SEMANA_7
 {
-    class TorresHanoi
+    public class TorresHanoi
     {
         // Creamos 3 pilas que representan las 3 torres
         static Stack<int> torreA = new Stack<int>(); // Torre origen (izquierda)
         static Stack<int> torreB = new Stack<int>(); // Torre auxiliar (centro)
         static Stack<int> torreC = new Stack<int>(); // Torre destino (derecha)
 
-        public static void EjecutarTorresHanoi() // Cambiamos Main por EjecutarTorresHanoi
+        public static void EjecutarTorresHanoi()
         {
+            // Limpiar las torres antes de empezar (por si se ejecuta múltiples veces)
+            torreA.Clear();
+            torreB.Clear();
+            torreC.Clear();
+
             Console.Write("¿Cuántos discos quiere usar? ");
             int numDiscos = int.Parse(Console.ReadLine());
 
