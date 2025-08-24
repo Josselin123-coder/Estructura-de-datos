@@ -61,4 +61,4 @@ namespace VacunacionCovid              // Define un espacio de nombres para orga
                 Console.WriteLine($"- {c.Nombre}");                   // Imprime el nombre del ciudadano.
         }
     }
-}
+}  //FIN 
